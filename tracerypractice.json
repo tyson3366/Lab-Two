@@ -1,0 +1,81 @@
+{
+	"name": [
+		"Thomas",
+		"Emily",
+		"Winston",
+		"Alex",
+		"Riley",
+		"James"
+	],
+	"occupation": [
+		"programmer",
+		"journalist",
+		"firefighter",
+		"banker",
+		"doctor",
+		"nurse"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #adjective# #task#. #Never# let this #bad# #thing# #affect# your #life#!"
+	],
+	"always": [
+		"not",
+		"never",
+		"rarely",
+		"hardly",
+		"having a hard time",
+		"really",
+		"weirdly"
+	],
+	"expecting": [
+		"anticipating",
+		"thinking about",
+		"looking for",
+		"watching out for"
+	],
+	"task": [
+		"disease",
+		"animal",
+		"creature",
+		"sight",
+		"mistake"
+	],
+	"adjective": [
+		"weird",
+		"strange",
+		"obscene",
+		"disturbing",
+		"deadly",
+		"scary"
+	],
+	"Never": [
+		"Do not",
+		"Never",
+		"You cannot"
+	],
+	"bad": [
+		"terrible",
+		"horrifying",
+		"terrifying",
+		"horrible"
+	],
+	"thing": [
+		"experience",
+		"nightmare",
+		"incident",
+		"encounter"
+	],
+	"affect": [
+		"ruin",
+		"involve",
+		"influence",
+		"destroy"
+	],
+	"life": [
+		"house",
+		"auto insurance",
+		"career",
+		"retirement",
+		"credit score"
+	]
+}
